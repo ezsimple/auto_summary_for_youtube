@@ -1,0 +1,5 @@
+google_api_python_client==2.159.0
+numpy==2.2.3
+pandas==2.2.3
+plotly==5.18.0
+streamlit==1.38.0
